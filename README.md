@@ -1,2 +1,4 @@
 # Tubes-4-Deep-Learning
-Aplikasi Deep Learning dalam Penyakit Jantung
+## Aplikasi Deep Learning dalam Penyakit Jantung
+
+Penelitian ini membandingkan dua model deep learning, yaitu Multi-Layer Perceptron (MLP) dan Convolutional Neural Network (CNN), dalam mengklasifikasikan penyakit jantung. Dataset yang digunakan berisi data klinis pasien, dan beberapa fitur baru seperti BMI dikembangkan untuk mendukung analisis data. Model MLP dirancang dengan berbagai variasi hyperparameter, yang hasilnya menunjukkan akurasi lebih tinggi (73,27%) dibandingkan dengan model CNN. Sementara itu, model CNN dikembangkan untuk menangani data berbentuk grid seperti citra medis, namun menunjukkan akurasi yang lebih rendah (64,37%). Evaluasi performa kedua model dilakukan menggunakan metrik seperti akurasi, presisi, dan F1 score, dan hasilnya menunjukkan bahwa model MLP lebih efektif dan akurat dalam menangani data medis yang kompleks dibandingkan dengan CNN.
